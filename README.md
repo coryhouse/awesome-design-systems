@@ -46,6 +46,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Heroku Purple3](https://purple3.herokuapp.com/) | 👍 |  |  |  |
 | [Hewlett Packard grommet](https://grommet.github.io) | 👍 |  |  |  |
 | [HubSpot Canvas](https://canvas.hubspot.com/) | 👍 | 👍 |  |  |
+| [Hudl Design System](http://uniform.hudl.com) | 👍 | 👍 |  |  |
 | [IBM Carbon](http://carbondesignsystem.com/) | 👍 | 👍 | 👍 |  |
 | [IBM Design Language](https://www.ibm.com/design/language/) | 👍 | 👍 |  |  |
 | [IBM Northstar](https://www.ibm.com/standards/web/) | 👍 | 👍 |  |  |
